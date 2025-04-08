@@ -5,7 +5,7 @@
 Currently pursuing a Master's in Business Analytics & Big Data   
 
 
-Interested in **predictive modeling, AI ethics, and data-driven decision-making & storytelling**  
+Interested in **Machine Learning, AI ethics, and data-driven decision-making & storytelling**  
 
 ---
 
@@ -24,6 +24,14 @@ Interested in **predictive modeling, AI ethics, and data-driven decision-making 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ---
+
+### Featured Projects
+
+#### 1. Cycling in Numbers - A Case Study of Cycle Paths in Rhine- Kreis Neuss (Learning Project) 
+- **Goal:** This project analyzes bicycle traffic data in the Rhine-Kreis Neuss region, Germany, simulating real-time streaming, batch processing, and predictive analytics. By using big data technologies such as Apache Kafka, Apache Spark, and Hadoop, the system ingests, processes, and visualizes cycling trends to support urban planning and bike-sharing initiatives.
+
+- **Tools:** Apache Kafka, Apache Spark, Hadoop
+- Project Repo - [Cycling in Numbers](https://github.com/KibetuMaureen/ie-mda-II-mar25-group10)
 
 <!--
 **KibetuMaureen/KibetuMaureen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
