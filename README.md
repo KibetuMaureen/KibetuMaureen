@@ -1,4 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Maureen Kibetu
+
+**Data Engineering | Data Science | Business Analytics**  
+
+Currently pursuing a Master's in Business Analytics & Big Data   
+
+
+Interested in **predictive modeling, AI ethics, and data-driven decision-making & storytelling**  
+
+---
+
+### Tech Stack
+
+**Programming & Data Science:**  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)       ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)      ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+**Big Data & Cloud:**  
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Visualization & Analytics:**  
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
+
+---
 
 <!--
 **KibetuMaureen/KibetuMaureen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
