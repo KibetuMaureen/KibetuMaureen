@@ -33,6 +33,11 @@ Interested in **Machine Learning, AI ethics, and data-driven decision-making & s
 - **Tools:** Apache Kafka, Apache Spark, Hadoop
 - Project Repo - [Cycling in Numbers](https://github.com/KibetuMaureen/ie-mda-II-mar25-group10)
 
+#### 2. Energy Price Day Ahead Forecast (Datathon Project)
+- **Goal:** Forecast System Price for the UK electricity market on October 1st, 2024, using 30-minute intervals. When working with renewable energy sources that require storage and discharge into the grid, the price forecast can be used to determine and plan for the next day's Battery storage system charging and discharging cycles.
+
+- Project Repo - [Energy Day Ahead price prediction](https://github.com/KibetuMaureen/energy_price_day_ahead_forecast)
+
 <!--
 **KibetuMaureen/KibetuMaureen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
